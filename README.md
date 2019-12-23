@@ -2,7 +2,7 @@
 Insta Click is a Software created with QTDesigner which runs in background and clicks Pictures on the basis of
 Emotion changes detected by Pre trained Deep Learning Model[link] using the Webcam with the help of OpenCv
 python Library.
-
+Github Link : - https://github.com/petercunha/Emotion/
 # Emotion
 This software recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
 
